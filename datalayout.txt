@@ -1,0 +1,28 @@
+user json
+- number
+- name
+- rank
+- point
+- admin
+- owner
+- register_time
+
+
+group json
+- id
+- name
+- register_time
+- register_by
+
+
+blocked_number json
+- number
+- block_until
+- block_reason
+- block_by
+
+blocked_group json
+- group_id
+- block_until
+- block_reason
+- block_by

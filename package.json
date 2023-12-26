@@ -1,0 +1,27 @@
+{
+  "name": "eulabot-4.0",
+  "version": "4.0.0",
+  "description": "EulaBOT by AHANG",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "AHANG",
+  "license": "ISC",
+  "dependencies": {
+    "@tobyg74/tiktok-api-dl": "^1.0.13",
+    "axios": "^1.6.2",
+    "cheerio": "^1.0.0-rc.12",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.43",
+    "qr-image": "^3.2.0",
+    "qrcode-terminal": "^0.12.0",
+    "request": "^2.88.2",
+    "whatsapp-web.js": "github:pedroslopez/whatsapp-web.js#main",
+    "ytdl-core": "^4.11.5"
+  }
+}

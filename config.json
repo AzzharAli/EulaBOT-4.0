@@ -1,0 +1,12 @@
+{
+    "namaBot":"EulaBOT",
+    "nomorOwner":"62895395391278",
+    "owner":"AHANG",
+    "disableCommand":false,
+    "trigger":"/",
+    "httpPort":3000,
+    "allowNsfw":true,
+    "bypassPoin":false,
+    "stickerName":"EulaBOT",
+    "stickerAuthor":"EulaBOT by AHANG"
+} 
